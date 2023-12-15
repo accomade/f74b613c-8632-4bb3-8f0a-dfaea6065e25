@@ -11,32 +11,74 @@
       "external": false
     },
     {
-      "key": "accoCornflower",
-      "path": "/accomodations/acco_cornflower",
-      "sub": true,
-      "external": false
+      "key": "67af26db-a93d-48ca-97dc-739b326c8ef1",
+      "path": "/accomodations/67af26db-a93d-48ca-97dc-739b326c8ef1",
+      "acco": "67af26db-a93d-48ca-97dc-739b326c8ef1",
+      "external": false,
+      "sub": true
     },
     {
-      "key": "accoSunflower",
-      "path": "/accomodations/acco_sunflower",
-      "sub": true,
-      "external": false
+      "key": "19e0b909-44ce-416b-95f4-c5f097d36e74",
+      "path": "/accomodations/19e0b909-44ce-416b-95f4-c5f097d36e74",
+      "acco": "19e0b909-44ce-416b-95f4-c5f097d36e74",
+      "external": false,
+      "sub": true
     },
     {
-      "key": "accoRosebush",
-      "path": "/accomodations/acco_rosebush",
-      "sub": true,
-      "external": false
+      "key": "d1c55db9-62e4-4e00-a3a0-e64ab3a9e19f",
+      "path": "/accomodations/d1c55db9-62e4-4e00-a3a0-e64ab3a9e19f",
+      "acco": "d1c55db9-62e4-4e00-a3a0-e64ab3a9e19f",
+      "external": false,
+      "sub": true
     },
     {
-      "key": "koserow",
-      "path": "http://www.koserower.de",
-      "external": true
+      "key": "5888eb1f-6c5f-4737-a869-d4c186c90e40",
+      "path": "/accomodations/5888eb1f-6c5f-4737-a869-d4c186c90e40",
+      "acco": "5888eb1f-6c5f-4737-a869-d4c186c90e40",
+      "external": false,
+      "sub": true
     },
     {
-      "key": "usedom",
-      "path": "http://inselusedom.de",
-      "external": true
+      "key": "af0f3404-97a2-42ef-b483-fb55d809e70c",
+      "path": "/accomodations/af0f3404-97a2-42ef-b483-fb55d809e70c",
+      "acco": "af0f3404-97a2-42ef-b483-fb55d809e70c",
+      "external": false,
+      "sub": true
+    },
+    {
+      "key": "16d4d783-d96f-4922-afc5-d97c1e65c2a6",
+      "path": "/accomodations/16d4d783-d96f-4922-afc5-d97c1e65c2a6",
+      "acco": "16d4d783-d96f-4922-afc5-d97c1e65c2a6",
+      "external": false,
+      "sub": true
+    },
+    {
+      "key": "324e5cff-fb0a-4b6c-ae05-2410e6b06176",
+      "path": "/accomodations/324e5cff-fb0a-4b6c-ae05-2410e6b06176",
+      "acco": "324e5cff-fb0a-4b6c-ae05-2410e6b06176",
+      "external": false,
+      "sub": true
+    },
+    {
+      "key": "f0d8d36a-35b1-41df-b25f-605c0f268f22",
+      "path": "/accomodations/f0d8d36a-35b1-41df-b25f-605c0f268f22",
+      "acco": "f0d8d36a-35b1-41df-b25f-605c0f268f22",
+      "external": false,
+      "sub": true
+    },
+    {
+      "key": "95a9296c-4dc5-4b9b-a69b-b844f870445f",
+      "path": "/accomodations/95a9296c-4dc5-4b9b-a69b-b844f870445f",
+      "acco": "95a9296c-4dc5-4b9b-a69b-b844f870445f",
+      "external": false,
+      "sub": true
+    },
+    {
+      "key": "ec795a55-c331-4344-8c5e-cc75137713ad",
+      "path": "/accomodations/ec795a55-c331-4344-8c5e-cc75137713ad",
+      "acco": "ec795a55-c331-4344-8c5e-cc75137713ad",
+      "external": false,
+      "sub": true
     }
   ],
   "footer": [
